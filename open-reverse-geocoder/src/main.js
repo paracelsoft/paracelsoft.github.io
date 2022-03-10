@@ -6,7 +6,7 @@ import { VectorTile } from "https://paracelsoft.github.io/vector-tile-js/VectorT
 const DEFAULT_OPTIONS = {
   zoomBase: 10,
   tileUrl:
-    `https://paracelsoft.github.io/geolonia-open-reverse-geocoder/tiles/{z}/{x}/{y}.pbf`,
+    `https://geolonia.github.io/open-reverse-geocoder/tiles/{z}/{x}/{y}.pbf`,
 };
 
 export const openReverseGeocoder = async (lnglat, inputOptions = {}) => {
