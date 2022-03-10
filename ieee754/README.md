@@ -2,7 +2,7 @@
 
 ## methods
 
-`import { ieee754 } from "https://taisukef.github.io/ieee754/ieee754.js"`
+`import { ieee754 } from "https://paracelsoft.github.io/ieee754/ieee754.js"`
 
 The `ieee754` object has the following functions:
 
