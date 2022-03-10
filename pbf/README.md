@@ -25,7 +25,7 @@ Here's a result from running a real-world benchmark on Node v6.5
 Then read and write objects using the module like this:
 
 ```js
-import { Pbf } from "https://taisukef.github.io/pbf/Pbf.js";
+import { Pbf } from "https://paracelsoft.github.io/pbf/Pbf.js";
 import { Example } from "./example.js";
 
 // read
