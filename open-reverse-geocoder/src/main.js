@@ -1,7 +1,7 @@
-import { geoContains } from "https://taisukef.github.io/d3-geo/src/index.js";
-import { lngLatToGoogle } from "https://taisukef.github.io/global-mercator/index.js";
-import { Pbf } from "https://taisukef.github.io/pbf/Pbf.js";
-import { VectorTile } from "https://taisukef.github.io/vector-tile-js/VectorTile.js";
+import { geoContains } from "https://paracelsoft.github.io/d3-geo/src/index.js";
+import { lngLatToGoogle } from "https://paracelsoft.github.io/global-mercator/index.js";
+import { Pbf } from "https://paracelsoft.github.io/pbf/Pbf.js";
+import { VectorTile } from "https://paracelsoft.github.io/vector-tile-js/VectorTile.js";
 
 const DEFAULT_OPTIONS = {
   zoomBase: 10,
